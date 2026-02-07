@@ -1,4 +1,4 @@
-# 🐛 Developer Debugging Platform
+# 🐛 Zero Hour
 
 > Transform debugging from frustration to mastery. A comprehensive platform where developers sharpen their debugging skills through real-world challenges, AI-powered guidance, and competition-based hiring opportunities.
 
